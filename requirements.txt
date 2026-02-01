@@ -1,2 +1,4 @@
 python-3.11.7
-pip install
+requests
+user_agent
+python-telegram-bot
